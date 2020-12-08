@@ -13,6 +13,7 @@ galaxy_info:
         - trusty
         - xenial
         - bionic
+        - fossa
     - name: Debian
       versions:
         - jessie
